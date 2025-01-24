@@ -1,4 +1,4 @@
-# Investigaciones-Basis
+# Investigaciones
 ## Descripción General
 Este repositorio documenta prácticas clave en GitHub, Visual Studio y optimización de aplicaciones, incluyendo:
 
