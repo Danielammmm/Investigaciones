@@ -10,8 +10,7 @@ Este repositorio documenta prácticas clave en GitHub, Visual Studio y optimizac
 2. **[Profiler en Visual Studio](https://github.com/Danielammmm/ProfilerDemo)**:
    - Identificación y optimización de cuellos de botella en aplicaciones ASP.NET Web Forms.
 
-3. **[Integración de GitHub: Issues, Actions, Projects](#)**:
+3. **[Integración de GitHub: Issues, Actions, Projects](https://github.com/Danielammmm/Actions_Repo/tree/main?tab=readme-ov-file)**:
    - Automatización, seguimiento de tareas y seguridad en GitHub.
 
-4. **[Uso de SQL Profiler](#)**:
-   - Análisis de consultas para mejorar la interacción con bases de datos en aplicaciones web.
+
