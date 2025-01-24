@@ -12,5 +12,7 @@ Este repositorio documenta prácticas clave en GitHub, Visual Studio y optimizac
 
 3. **[Integración de GitHub: Issues, Actions, Projects](https://github.com/Danielammmm/Actions_Repo/tree/main?tab=readme-ov-file)**:
    - Automatización, seguimiento de tareas y seguridad en GitHub.
+4. **[Asignación de bottlenecks con profiler + uso de copilot](#)**
+   - Desarrollo, optimización automatizada y seguimiento. 
 
 
