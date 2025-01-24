@@ -4,7 +4,7 @@ Este repositorio documenta prácticas clave en GitHub, Visual Studio y optimizac
 
 ### Contenido
 
-1. **[Mejores prácticas para Git](#)**:
+1. **[Mejores prácticas para Git](https://github.com/Danielammmm/Mejores-Pr-cticas-para-branches/tree/main)**:
    - Estrategias para usar ramas como `feature/`, `bugfix/` y protección de ramas principales.
 
 2. **[Profiler en Visual Studio](https://github.com/Danielammmm/ProfilerDemo)**:
