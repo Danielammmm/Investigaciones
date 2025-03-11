@@ -18,3 +18,5 @@ Este repositorio documenta prácticas clave en GitHub, Visual Studio y optimizac
    - XUnit, AUtoFixture y Moqs
 6. **[Demo PayPal](https://github.com/Danielammmm/PayPalApp.git)**
    - Integración de API y Webhooks
+7. **[Clean Architecture Base](https://github.com/Danielammmm/Clean-Architecture.git)**
+   - Clean Architecture con una estructura modular, proporciona un servicio de configuración expuesto a través de una API.
