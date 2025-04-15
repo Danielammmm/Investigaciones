@@ -20,3 +20,9 @@ Este repositorio documenta prácticas clave en GitHub, Visual Studio y optimizac
    - Integración de API y Webhooks
 7. **[Clean Architecture Base](https://github.com/Danielammmm/Clean-Architecture.git)**
    - Clean Architecture con una estructura modular, proporciona un servicio de configuración expuesto a través de una API.
+8. **[Benchmark Dashboard](https://github.com/Danielammmm/lazyload-paging-catching)**
+   - Implementación de dashboard de rendimiento, uso de lazy loading, paging y catching.
+10. **[Introducción Aspire](https://github.com/Danielammmm/.NET-Aspire)**
+      - Uso de Aspire con API simple, para conocer sus herramientas.
+11. **[Aspire + Docker](https://github.com/Danielammmm/Docker-Aspire)**
+      - Uso de Aspire con Docker con herramienta de manejo de tickets.
